@@ -1,7 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Kyrka Campaign
+draft: false
+tags: 
 ---
-test
+testing new text
 
 
 This is a blank Quartz installation.
