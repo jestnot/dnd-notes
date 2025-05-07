@@ -1,3 +1,9 @@
+---
+title: "2. Age of Dragons"
+draft: false
+tags:
+---
+
 - Dragons ruled over Kyrka as the original creatures considered “the top of the food chain”
 - It is said that this age came to an abrupt end due to a sudden and overwhelming fiendish presence. The dragons fought valiantly to remove the scourge, but their numbers dwindled—especially for gem and metallic dragons, leaving chromatic dragons the majority.
 	- [[The Church]] believed this was [[The Three Sisters]]’ first test for mortals.

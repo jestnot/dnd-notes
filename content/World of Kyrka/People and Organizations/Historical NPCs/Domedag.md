@@ -1,3 +1,10 @@
+---
+title: "Domedag"
+draft: false
+tags: npc
+---
+
+
 # Ideas
 - "Black Powder"
 	- Either created this substance, the substance is made from Domedag's body, or Domedag dragged it up from deep within the earth when reaching the surface

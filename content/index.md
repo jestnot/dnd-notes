@@ -1,9 +1,8 @@
 ---
-title: Welcome
+title: "Welcome to the Kyrka Campaign!"
 draft: false
 tags:
 ---
-# Welcome to the Kyrka Campaign!
 This site will act as the wiki for the world of Kyrka, as well as a reference for info on our party and sessions.
 
 # Current Status: Pre-Campaign Planning
