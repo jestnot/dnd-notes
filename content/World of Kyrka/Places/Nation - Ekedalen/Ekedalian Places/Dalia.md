@@ -1,3 +1,7 @@
-Dalia was the capital city of [[Ekedalen]].
+---
+title: "City - Dalia"
+draft: false
+tags: city, location
+---
 
-Dalia was destroyed by [[Domedag]].
+Dalia was the capital city of [[Ekedalen]] and was destroyed by [[Domedag]] in 0 AP.  [[Domedag's Abyss]] now exists where Dalia once stood.

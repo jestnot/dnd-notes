@@ -1,3 +1,8 @@
+---
+title: "The Plutocracy of Vangsta"
+draft: false
+tags: nation
+---
 Citizens are referred to as "Vangstans."
 
 # Government

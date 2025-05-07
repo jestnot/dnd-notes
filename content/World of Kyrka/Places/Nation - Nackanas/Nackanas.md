@@ -1,3 +1,9 @@
+---
+title: "The Republic of Nackanas"
+draft: false
+tags: nation
+---
+
 Citizens are referred to as "Nackanians" or "Nacks."
 
 ## Government

@@ -1,7 +1,9 @@
 ---
+title: "Illusionist Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
 ---
+
 ## Description
 - The **illuisionist** on The Board
 - Against the cult

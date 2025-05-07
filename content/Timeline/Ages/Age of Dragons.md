@@ -1,5 +1,5 @@
 ---
-title: "2. Age of Dragons"
+title: Age of Dragons
 draft: false
 tags:
 ---

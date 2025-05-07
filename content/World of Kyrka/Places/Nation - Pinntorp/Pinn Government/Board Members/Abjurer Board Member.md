@@ -1,8 +1,9 @@
 ---
+title: "Abjurer Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
-  - Cultist
 ---
+
 ## Description
 - The **abjurer** on The Board
 - Reluctant cult member

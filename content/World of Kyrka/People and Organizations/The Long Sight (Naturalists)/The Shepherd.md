@@ -1,8 +1,9 @@
 ---
-tags:
-  - NPC
-  - Cultist
+title: "The Shepherd"
+draft: true
+tags: npc
 ---
+
 ## Description
 - Is actually [[Makkalos Ekedalia]]
 - Leader of the Cult of the Long Sight

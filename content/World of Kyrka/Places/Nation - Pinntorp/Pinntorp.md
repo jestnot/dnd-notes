@@ -1,3 +1,8 @@
+---
+title: "The Meritocracy of Pinntorp"
+draft: false
+tags: nation
+---
 Citizens are referred to as "Pinntorpers" or "Pinns."
 
 # Government

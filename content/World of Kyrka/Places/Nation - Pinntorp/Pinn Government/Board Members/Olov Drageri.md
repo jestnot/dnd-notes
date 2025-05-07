@@ -1,8 +1,9 @@
 ---
+title: "Olov Drageri - Necromancy Board Member"
+draft: true
 tags:
-  - NPC
-  - Cultist
 ---
+
 ## Description
 - Is actually [[Makkalos Ekedalia]]
 - The **necromancer** on The Board

@@ -1,7 +1,10 @@
 ---
+title: "Conjurer Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
 ---
+
+
 ## Description
 - The **conjurer** on The Board
 - Cult member

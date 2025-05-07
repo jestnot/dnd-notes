@@ -1,5 +1,5 @@
 ---
-title: "1. Age of Origins"
+title: Age of Origins
 draft: false
 tags:
 ---

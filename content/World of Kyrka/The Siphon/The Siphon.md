@@ -1,3 +1,9 @@
+---
+title: "The Siphon"
+draft: false
+tags:
+---
+
 The Siphon is an ancient magical artifact of legend, supposedly able to siphon magical energy from one creature and transfer it to another.
 
 An average Kyrkan would know:

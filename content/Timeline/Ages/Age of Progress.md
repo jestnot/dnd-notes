@@ -1,5 +1,5 @@
 ---
-title: "6. Age of Progress"
+title: Age of Progress
 draft: false
 tags:
 ---

@@ -1,7 +1,9 @@
 ---
+title: "Transmutationist Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
 ---
+
 ## Description
 - The **transmutationist** on The Board
 - Against the cult

@@ -1,8 +1,9 @@
 ---
+title: "Diviner Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
-  - Cultist
 ---
+
 ## Description
 - The **diviner** on The Board
 - Cult member

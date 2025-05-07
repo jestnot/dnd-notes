@@ -1,8 +1,9 @@
 ---
-tags:
-  - NPC
-  - Cultist
+title: "Makkalos Ekedalia"
+draft: true
+tags: npc
 ---
+
 ## Description
 - Disguising himself with the pseudonym "[[Olov Drageri]]"
 - Referred to as "[[The Shepherd]]" within the cult

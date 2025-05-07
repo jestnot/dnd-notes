@@ -1,3 +1,9 @@
+---
+title: "The Church"
+draft: false
+tags:
+---
+
 Throughout the ages, a collection of the most pious Kyrkans have comprised the Church -- an organization who worships [[The Three Sisters]]. In ages past, priests claimed to have direct communications with the Sisters, and sometimes even received prophecies, such as the one that they believed foretold Domedag's arrival and destruction.
 
 While the Church has taken different forms through the ages, many temples across Kyrka have persisted, some of which are claimed to have been built in centuries past. Today, the Church only has a strong presence in [[Nackanas]]. The Nackanian branch of the Church holds firm in their belief that the Sisters are still watching to ensure that Kyrkans follow Nackan Qvist's philosophy, and may even return one day. While no priest has claimed to have direct contact with the Sisters since Domedag's defeat, some claim to receive and interpret signs.

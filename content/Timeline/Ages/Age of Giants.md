@@ -1,5 +1,5 @@
 ---
-title: "3. Age of Giants"
+title: Age of Giants
 draft: false
 tags:
 ---

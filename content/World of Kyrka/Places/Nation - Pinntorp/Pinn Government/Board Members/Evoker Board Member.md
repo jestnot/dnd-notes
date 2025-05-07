@@ -1,8 +1,9 @@
 ---
+title: "Evoker Board Member (name TBD)"
+draft: true
 tags:
-  - NPC
-  - Cultist
 ---
+
 ## Description
 - The **evoker** on The Board
 - Cult member

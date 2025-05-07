@@ -1,3 +1,9 @@
+---
+title: "The Kingdom of Ekedalen"
+draft: false
+tags: nation
+---
+
 The Kingdom of Ekedalen no longer exists as of the beginning of the [[Age of Progress]].
 
 # Government
