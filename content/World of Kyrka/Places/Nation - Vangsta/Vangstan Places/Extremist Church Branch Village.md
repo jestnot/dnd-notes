@@ -1,0 +1,1 @@
+All members of this village in [[Vangsta]] belong to [[Extremist Church Branch]], a branch of [[The Church]].

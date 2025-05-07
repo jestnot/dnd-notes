@@ -1,0 +1,1 @@
+This was the abyss left behind when [[Domedag]] erupted from the earth.
