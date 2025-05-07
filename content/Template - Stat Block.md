@@ -1,3 +1,9 @@
+---
+title: Template - Stat Block
+draft: true
+tags: 
+---
+
 ```statblock  
 name: string  
 size: string  

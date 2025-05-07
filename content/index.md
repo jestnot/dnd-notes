@@ -1,10 +1,10 @@
 ---
-title: Kyrka Campaign
+title: Welcome
 draft: false
-tags: 
+tags:
 ---
-testing new text
+# Welcome to the Kyrka Campaign!
+This site will act as the wiki for the world of Kyrka, as well as a reference for info on our party and sessions.
 
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Current Status: Pre-Campaign Planning
+As you're starting to think about who you want your PC to be, review the **Player Introduction** section, starting with [[1. Campaign Overview]].
