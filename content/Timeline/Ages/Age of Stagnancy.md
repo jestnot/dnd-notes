@@ -1,5 +1,5 @@
 ---
-title: "5. Age of Stagnancy (prev. "Age of Stability")"
+title: 5. Age of Stagnancy (prev. "Age of Stability")
 draft: false
 tags:
 ---
