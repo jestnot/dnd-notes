@@ -1,7 +1,8 @@
 ---
-title: "Diviner Board Member (name TBD)"
+title: Diviner Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

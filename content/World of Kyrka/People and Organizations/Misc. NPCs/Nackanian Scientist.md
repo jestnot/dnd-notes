@@ -1,7 +1,8 @@
 ---
-title: "Nackanian Scientist (name TBD)"
+title: Nackanian Scientist (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 

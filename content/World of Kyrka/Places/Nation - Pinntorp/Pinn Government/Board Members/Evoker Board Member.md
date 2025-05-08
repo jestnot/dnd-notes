@@ -1,7 +1,8 @@
 ---
-title: "Evoker Board Member (name TBD)"
+title: Evoker Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

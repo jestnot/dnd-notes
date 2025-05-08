@@ -1,7 +1,8 @@
 ---
-title: "Olov Drageri - Necromancy Board Member"
+title: Olov Drageri - Necromancy Board Member
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

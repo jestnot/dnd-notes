@@ -1,7 +1,8 @@
 ---
-title: "Abjurer Board Member (name TBD)"
+title: Abjurer Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

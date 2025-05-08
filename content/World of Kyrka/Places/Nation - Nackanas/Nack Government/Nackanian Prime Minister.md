@@ -1,6 +1,7 @@
 ---
-title: "Nackanian Prime Minister (name TBD)"
+title: Nackanian Prime Minister (name TBD)
 draft: false
 tags:
+  - npc
 ---
 

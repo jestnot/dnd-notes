@@ -1,7 +1,8 @@
 ---
-title: "Illusionist Board Member (name TBD)"
+title: Illusionist Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

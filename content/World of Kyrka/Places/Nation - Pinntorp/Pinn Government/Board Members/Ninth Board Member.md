@@ -1,7 +1,8 @@
 ---
-title: "Ninth Board Member (name TBD)"
+title: Ninth Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 ## Description

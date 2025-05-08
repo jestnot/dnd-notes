@@ -1,6 +1,8 @@
 ---
-title: "Ypperlig"
+title: Ypperlig
 draft: false
-tags: city
+tags:
+  - city
+  - location
 ---
 The capital city of [[Pinntorp]].

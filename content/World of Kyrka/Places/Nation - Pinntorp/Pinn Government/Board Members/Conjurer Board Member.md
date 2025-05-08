@@ -1,7 +1,8 @@
 ---
-title: "Conjurer Board Member (name TBD)"
+title: Conjurer Board Member (name TBD)
 draft: true
 tags:
+  - npc
 ---
 
 
