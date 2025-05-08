@@ -3,7 +3,6 @@ title: "Campaign Introduction"
 draft: false
 tags:
 ---
-
 # Long Ago
 Eons ago, [[The Three Sisters]] created the world of Kyrka and its inhabitants. As the almighty gods of Kyrka, they ushered their creations through the ages, sometimes speaking directly to the pious and providing cryptic guidance. While there are many legends of their feats, none can be confirmed today, as they have gone silent after their last prophecy of a test for all mortals to prove their worth.
 
