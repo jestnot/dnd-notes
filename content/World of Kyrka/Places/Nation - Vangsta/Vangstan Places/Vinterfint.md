@@ -1,5 +1,5 @@
 ---
-title: "City - Vinterfint
+title: "City - Vinterfint"
 draft: false
 tags: city, location
 ---
