@@ -1,7 +1,8 @@
 ---
-title: "The Church"
+title: The Church
 draft: false
 tags:
+  - organization
 ---
 
 Throughout the ages, a collection of the most pious Kyrkans have comprised the Church -- an organization who worships [[The Three Sisters]]. In ages past, priests claimed to have direct communications with the Sisters, and sometimes even received prophecies, such as the one that they believed foretold Domedag's arrival and destruction.

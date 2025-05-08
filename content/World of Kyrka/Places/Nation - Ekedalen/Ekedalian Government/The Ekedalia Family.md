@@ -1,7 +1,8 @@
 ---
-title: "The Ekedalia Family"
+title: The Ekedalia Family
 draft: false
 tags:
+  - organization
 ---
 
 The royal family of elves who ruled over the Kingdom of [[Ekedalen]] (their last name is "Ekedalia").

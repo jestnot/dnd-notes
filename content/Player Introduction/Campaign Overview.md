@@ -23,3 +23,15 @@ Examples of what "the cycle" can refer to:
 - A government system that works well for most people, but poorly for a few
 	- Maybe it would require lots of time, money, and effort to go through all the red tape required to push a new policy
 - A society-wide tradition that is done because "that's how things have always been done"
+
+# Notable Rule Differences
+## Healing is Necromancy Magic
+Healing magic is considered necromancy, including the following spells:
+- Level 1: Cure Wounds, Healing Word
+- Level 2: Prayer of Healing
+- Level 3: Beacon of Hope, Mass Healing Word
+- Level 5: Mass Cure Wounds
+- Level 7: Heal
+- Level 9: Mass Heal, Power Word Heal
+
+This is done for narrative purposes, so we may need to make changes to specific spells and magical effects if this causes any balance issues.

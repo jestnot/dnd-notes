@@ -1,6 +1,7 @@
 ---
-title: "The Council"
+title: The Council
 draft: false
 tags:
+  - organization
 ---
 
