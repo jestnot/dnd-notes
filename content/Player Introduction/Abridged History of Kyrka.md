@@ -1,5 +1,5 @@
 ---
-title: "Campaign Introduction"
+title: Abridged History of Kyrka
 draft: false
 tags:
 ---
