@@ -47,7 +47,7 @@ Examples of what "the cycle" can refer to:
 	- Maybe it would require lots of time, money, and effort to go through all the red tape required to push a new policy
 - A society-wide tradition that is done because "that's how things have always been done"
 # Homebrewed Rules
-## Healing magic is part of the Necromancy school
+## Healing Magic as Necromancy
 Healing magic is considered necromancy, including the following spells:
 - Level 1: Cure Wounds, Healing Word
 - Level 2: Prayer of Healing

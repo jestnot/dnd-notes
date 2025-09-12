@@ -27,3 +27,6 @@ Quartz configuration: https://quartz.jzhao.xyz/configuration
 
 Obsidian plugins for D&D
 - https://plugins.javalent.com/home
+
+How to sort files
+- https://github.com/SebastianMC/obsidian-custom-sort/wiki/How-to-order-items-in-File-Explorer-with-drag-and-drop%3F#example-2-step-by-step-ordering-items-in-root-folder-long-detailed-example

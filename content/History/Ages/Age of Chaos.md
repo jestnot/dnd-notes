@@ -1,5 +1,5 @@
 ---
-title: 4.Age of Chaos
+title: Age of Chaos
 draft: false
 tags:
 ---
