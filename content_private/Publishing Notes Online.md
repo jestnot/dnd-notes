@@ -14,11 +14,9 @@ tags:
 	1. This will run the local server so you can access http://localhost:8080/ in web browser
 	2. When you save changes in Obsidian, re-run the server (press ctrl + C and retype `npx quartz build --serve`) to update local host changes
 5. To update the live page, type `npx quartz sync`
-
-For subsequent updates:
-1. In Obsidian, save document
-2. In Terminal
-# My Links
+	1. Can check progress at https://github.com/jestnot/dnd-notes/actions
+	2. https://jestnot.github.io/dnd-notes/ should be updated
+# Links
 Github: https://github.com/jestnot/dnd-notes
 
 Website: https://jestnot.github.io/dnd-notes/
