@@ -1,9 +1,11 @@
 ---
-title: "Creating Your PC"
+title: PC Creation
 draft: false
 tags:
 ---
+When you begin creating your character, read the [[Campaign Overview]]!
 
+You do **NOT** need to read the [[Abridged History of Kyrka]] or the [[Detailed History of Kyrka]], but you can if you'd like. 🙂
 # PC Requirements
 
 - Your PC is an adult (i.e. no underage characters)
@@ -15,7 +17,7 @@ tags:
 	- You can totally have a PC who has spent time in multiple nations if you want—I just want to avoid having all PCs having spent their entire lives in a single nation
 - The party has at least one PC of a race with a longer lifespan (namely, an elf, gnome, dwarf, or halfling
 
-Once we have at least basic ideas of all the PCs, the DM will start working with the players to figure out if we want to have any PCs with prior connections or if PCs will meet during Session 1. We may even have a mix! This will be determined based on what the group wants and what makes the most sense with the PC backstories. 🙂
+Once we have at least basic ideas of all the PCs, the DM will start working with the players to figure out if we want to have any PCs with prior connections or if PCs will meet during Session 1. We may even have a mix! This will be determined based on what the group wants and what makes the most sense with the PC backstories. 
 # Character Sheet Notes
 
 - Starting level = 5
@@ -25,8 +27,7 @@ Once we have at least basic ideas of all the PCs, the DM will start working with
 - You may use official content, but DM gets final say in what makes sense within the world and campaign
 	- If you are using any content that isn't mentioned in the setting information (e.g. a race that isn't mentioned), consider how it would work in the world/campaign and bring a proposal to the DM
 	- If you want to use any homebrewed work, you need DM approval
-
-# Choosing A Race
+## Choosing A Race
 
 The fact that races have different average lifespans is essential to understanding Kyrka's history. Specifically, longer-lifespan races that have a natural aptitude for the arcane (most notably elves and gnomes, but also dwarves) were able to seize and maintain power during the Age of Stagnancy. In the current Age of Progress, shorter-lifespan races have gained more rights and power, leading to a more equitable society.
 
@@ -43,7 +44,6 @@ Here are the average lifespans for common races in Kyrka. If you are interested 
 | Human      | 90               |                                                                                                                                                  |
 | Dragonborn | 80               | Although gem and metallic dragons are no longer prevalent (some believe they may be long extinct), there are still gem and metallic dragonborns. |
 | Half-Orc   | 75               |                                                                                                                                                  |
-
 # Character Backstory Questions
 
 ## Required
@@ -53,6 +53,7 @@ Here are the average lifespans for common races in Kyrka. If you are interested 
 3. How was your PC affected by Domedag? How were your PC's friends and family affected?
 4. What does your PC believe about the Three Sisters (the gods)?
 5. What does your PC know about the legend of [[The Siphon]]?
+	- Unless you specifically tell the DM you do not want this, your PC will have a way to be tied into [[The Siphon]] or other major components of the main story (which will be related to the Siphon).
 	- E.g. Are you well-informed of it and actively seeking it out?
 		- E.g. to destroy an enemy’s power, to remove a powerful curse, to gain your own power, to sell for money or to repay a debt?
 	- E.g. have you only briefly heard of it in passing?
@@ -60,10 +61,7 @@ Here are the average lifespans for common races in Kyrka. If you are interested 
 		- E.g. in the way that someone may have watched Indiana Jones and the Last Crusade and only know that story/context for what the holy grail is
 6. What does your PC look like? (race, outfit at the start of the campaign, fashion sense, height, weight, physicality, and any other defining physical characteristics you want to share)
 7. List at least 2 people/creatures/beings that are most important to your PC and give a short description of why they're so important.
-8. Separate from the 2 above, list at least 1 person who is important to your PC and whom your PC believes is dead. Give a short description of why they're so important, and how your PC believes they died. How far would your PC go to bring them back?
-
 ## Optional
-
 1. How do you expect or want your PC to change over the course of the campaign? Is there a way you want your PC to change or grow? Is there a lesson you want them to learn?
 2. For the nation(s) your PC has spent the most time in, how does your PC feel about their government? How does your PC feel about other nations' governing styles?
 3. How does your PC's race's average lifespan affect your character and their relationships? (e.g. Do you have a longer lifespan than a loved one? Have you known someone all your life who never seems to age?)

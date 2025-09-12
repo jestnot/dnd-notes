@@ -1,5 +1,5 @@
 ---
-title: The Long Sight (The Naturalists)
+title: The Long Sight
 draft: true
 tags:
   - organization

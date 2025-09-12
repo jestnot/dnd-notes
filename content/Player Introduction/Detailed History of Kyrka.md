@@ -1,9 +1,8 @@
 ---
-title: "Recent History of Kyrka"
+title: Detailed History of Kyrka
 draft: false
 tags:
 ---
-
 # Age of Stability/Stagnancy (the previous age)
 For the past 600 years, the continent of Kyrka (pronounced “KEER-kah”) was governed by the royal Ekedalia family of elves in the the [[Age of Stagnancy]] (then referred to as the "Age of Stability"). Residing in [[Dalia]], the holy city of Ekedalen, the royal family held a firm grip over the main source of freshwater on the continent and employed a feudal system to manage their land and people:
 
@@ -19,7 +18,7 @@ For the past 600 years, the continent of Kyrka (pronounced “KEER-kah”) was g
 
 Throughout the [[Age of Stagnancy]], Kyrka experienced the longest period of peace in recent history, as well as the fewest changes in leadership. [[The Ekedalia Family]] heavily emphasized the value of experience and wealth of knowledge only longer-lifespan races could provide, especially in the arcane arts (which were exclusively taught to the royal family, nobility, knights, and druids). The lands closest to [[Dalia]] (and the source of freshwater) were the most prosperous, but no Kyrkan had to worry about their safety or hunger, thanks to the disciplined knights and druids.
 
-As with ages past, the Ekedalia family led Kyrka in worshipping the Sisters who created mortals. When [[First Ekedalian King]] first took the throne, [[The Church]] claimed that the Ekedalian family was chosen directly by [[The Three Sisters]] to bless the land with their rule. 100 years into the Age of Stability, the Church received a prophecy from the Sisters themselves, warning that mortals would one day be tested to prove their worth. That prophecy came true several years ago, when Kyrka was ripped apart by the gargantuan monster known as [[Domedag]] ("DOH-meh-DAHG"), and Kyrkans were forced to face the Sisters' judgment.
+As with ages past, the Ekedalia family led Kyrka in worshipping the Sisters who created mortals. When [[First Ekedalian King]] first took the throne, [[The Church]] claimed that the Ekedalian family was chosen directly by [[The Three Sisters]] to bless the land with their rule. 100 years into the Age of Stability, the Church received a prophecy from the Sisters themselves, warning that mortals would one day be tested to prove their worth. That prophecy came true 197 years ago, when Kyrka was ripped apart by the gargantuan monster now known as [[Domedag]] ("DOH-meh-DAHG"), and Kyrkans were forced to face the Sisters' judgment.
 
 Domedag's arrival was foreshadowed by a series of natural disasters mentioned in the prophecy. As soon as the Church confirmed these events, [[First Ekedalian King]] began putting his plan six centuries in the making into motion. The Ekedalia family set up magical defenses around Ekedalen and stockpiled supplies, believing that the Sisters would deliver the holy city to safety. Many nobles fled to Ekedalen for shelter, leaving their knights, druids, and serfs behind. However, Domedag emerged from the ground in the center of Kyrka, destroying Ekedalen and its citizens rapidly.
 
@@ -52,7 +51,7 @@ During the first decade, the three nations focused their efforts on rebuilding a
 Ever since Domedag's death, [[The Three Sisters]] have gone silent. In the Age of Stagnancy, the most pious everyday citizen used to be able to hear words of wisdom as an answer to their prayers, but in the Age of Progress, prayers seem to go unanswered.
 
 # Belief in the Three Sisters
-Pinntorp and Nackanas largely believe they have passed the Sisters’ test, and no longer need them to continue living life
+Pinntorp and Nackanas largely believe they have passed the Sisters’ test, and no longer need them to continue living life.
 - This is for various reasons (e.g. the Sisters approve of Kyrka's new way of living, and are leaving Kyrka alone)
 - In any case, the Church has very little presence in either nation, and all temples have been converted into other public spaces (e.g. schools, libraries, shelters, or museums to preserve the old temple architecture)
 

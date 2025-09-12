@@ -4,9 +4,8 @@ draft: false
 tags:
 - 
 ---
-
+Date: TBD
 # Group Questions
-
 - How did you meet?
 	- Did any PCs meet first?
 	- What does each PC bring to the group? (strengths/weaknesses)
