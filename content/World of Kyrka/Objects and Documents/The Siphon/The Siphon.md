@@ -10,7 +10,7 @@ An average Kyrkan would know:
 - There have been many retellings/reinterpretations of the Siphon's legend over the years, but these are the most consistent parts
 	- It has the ability to siphon magical energy from one creature and transfer it to another
 	- It is a VERY powerful magical object
-	- It was created sometime before the [[Age of Chaos]], and is one of the oldest artifacts of legend
+	- It was created sometime before the [[content/History of Kyrka/Ages/Age of Chaos]], and is one of the oldest artifacts of legend
 		- Many believe [[The Three Sisters]] had something to do with its creation, but this is unclear/inconsistent
 		- Because the Siphon is so old
 	- Its current whereabouts are unknown to the public; there hasn't been a corroborated documented use of it in thousands of years

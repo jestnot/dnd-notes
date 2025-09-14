@@ -4,7 +4,7 @@ draft: false
 tags: nation
 ---
 
-The Kingdom of Ekedalen no longer exists as of the beginning of the [[Age of Progress]].
+The Kingdom of Ekedalen no longer exists as of the beginning of the [[content/History of Kyrka/Ages/Age of Progress]].
 
 # Government
 The government consisted of a feudal system.

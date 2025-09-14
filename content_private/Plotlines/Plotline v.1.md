@@ -12,7 +12,7 @@ tags:
 		- It went wrong, and when the members found the kidnapper's dead body, all they could learn was that a young silver dragonborn was the one with the Dreq -- they have been searching for him since
 	- There aren't many silver dragonborns, so [[The Long Sight]] have actually targeted [[Clyberius]]'s current boyfriend (also a silver dragonborn)
 - [[The Golden Scales]] has found a potential way to destroy [[content/World of Kyrka/Objects and Documents/The Siphon/The Siphon]] -- they believe that they can bring it to the depths of [[Domedag's Abyss]] and destroy it there
-	- At the end of [[Nackanas-Pinntorp War]], [[The Golden Scales]] manipulated the Nackanian and Pinntorper governments to each destroy ancient artifacts in there as part of the peace treaty
+	- At the end of [[content/History of Kyrka/Nackanas-Pinntorp War]], [[The Golden Scales]] manipulated the Nackanian and Pinntorper governments to each destroy ancient artifacts in there as part of the peace treaty
 ## Act 0: Introduction to the world
 - Party retrieves something from the highest layer of Domedag's Abyss
 	- Inspired by Made in Abyss
@@ -38,7 +38,7 @@ tags:
 	- Instead of using a logarithmic calculation for votes, the # of votes will be proportional to how recently a reference was made -- and more references will simply mean more votes
 	- This is intended to obfuscate the shift in power so people don't realize it until it's too late
 - [[The Long Sight]]' leader goes public with his plan to acquire more Nackanian land (claiming that Pinntorpers can make better use of land with ley line convergences than the antimagic Nackanians)
-	- After the recent [[Nackanas-Pinntorp War]], Pinntorp created a hospital where they took land (at the ley line intersection) and has used it to help heal many people
+	- After the recent [[content/History of Kyrka/Nackanas-Pinntorp War]], Pinntorp created a hospital where they took land (at the ley line intersection) and has used it to help heal many people
 ## Arc 1.1: Night at the Museum
 ### Goals
 - Introduce [[The Long Sight]] as an antagonistic organization
@@ -102,7 +102,7 @@ tags:
 ## Arc 1.2: Learn 
 ### Goals
 - Incorporate one of the PCs (not [[Athtoc Xarcrath]])'s backstories with some reason to visit [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Places/Ypperlig]]
-- Experience the post-[[Nackanas-Pinntorp War]] turmoil from the Pinntorper perspective
+- Experience the post-[[content/History of Kyrka/Nackanas-Pinntorp War]] turmoil from the Pinntorper perspective
 	- Understand why Pinntorpers would be persuaded to follow [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Olov Drageri]] and the "traditionalist" party on [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Board]]
 	- Understand why Pinntorpers would agree to [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Olov Drageri]]'s proposal to acquire more Nackanian land
 - [[The Long Sight]] and [[The Golden Scales]] are keeping an eye on the PCs
@@ -114,7 +114,7 @@ tags:
 	- [[The Long Sight]] and [[The Golden Scales]] are also trying to be there
 ## Arc 1.4
 ### Goals
-- Experience the post-[[Nackanas-Pinntorp War]] turmoil from the Nackanian perspective
+- Experience the post-[[content/History of Kyrka/Nackanas-Pinntorp War]] turmoil from the Nackanian perspective
 # Act 2: Search for the Siphon
 ## Act 2 Goals
 - All 3 Key Trials have been unlocked and the keys are out in the world
