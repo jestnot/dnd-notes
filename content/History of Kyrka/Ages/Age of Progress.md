@@ -5,4 +5,4 @@ tags:
 ---
 Age of Progress (current age)
 
-This is the age right after the [[content/History of Kyrka/Ages/Age of Stagnancy]].
+This is the age right after the [[Age of Stagnancy (or Stability)]].

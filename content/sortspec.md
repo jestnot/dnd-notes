@@ -16,27 +16,24 @@ sorting-spec: |-
   Party
   Sessions
   World of Kyrka
-  History
+  History of Kyrka
   target-folder: content/History
   Timeline
   Ages
-  
   target-folder: content/Player Introduction
   Campaign Overview
   PC Creation
   Abridged History of Kyrka
   Detailed History of Kyrka
-  
   target-folder: content/History of Kyrka
   Timeline
   Ages
-  
   target-folder: content/History of Kyrka/Ages
   Age of Origins
   Age of Dragons
   Age of Giants
   Age of Chaos
-  Age of Stagnancy
+  Age of Stagnancy (or Stability)
   Age of Progress
 draft: true
 ---
