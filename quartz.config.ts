@@ -17,7 +17,8 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jestnot.github.io/dnd-notes",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    // keep sortspec.md ignored so it isn't treated as a content page
+    ignorePatterns: ["private", "templates", ".obsidian", "sortspec.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -74,7 +75,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    // keep only RemoveDrafts here; Explorer now handles sorting client-side
+    filters: [
+      Plugin.RemoveDrafts(),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

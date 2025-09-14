@@ -8,6 +8,7 @@ import { i18n } from "../i18n"
 import { FileTrieNode } from "../util/fileTrie"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
+import { readSortSpecLines } from "../util/fileCache"
 
 type OrderEntries = "sort" | "filter" | "map"
 
@@ -18,35 +19,79 @@ export interface Options {
   useSavedState: boolean
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
-  mapFn: (node: FileTrieNode) => void
+  mapFn: (node: FileTrieNode) => FileTrieNode
   order: OrderEntries[]
 }
+
+// --- Prepare the sortspec literal at build time ---
+// This runs during build (Node). We serialize the cleaned lines into a JSON literal
+// which will be embedded inside the comparator function body so the client has it.
+const SORTSPEC_LITERAL = JSON.stringify(
+  readSortSpecLines()
+    .map(l => l.toLowerCase())
+);
+
+// Build a comparator function whose source contains the literal.
+// We use new Function to ensure the function's source (and thus toString())
+// contains the literal array directly; the postscript eval in the browser will
+// therefore have the list available as a local const.
+const comparator = new Function(
+  "a",
+  "b",
+  `
+  try {
+    const sortSpecLines = ${SORTSPEC_LITERAL};
+
+    // Browser debug: you'll see these messages in DevTools Console
+    console && console.debug && console.debug("Explorer.sortFn call", {
+      a: a?.displayName,
+      b: b?.displayName,
+      aIsFolder: a?.isFolder,
+      bIsFolder: b?.isFolder,
+    });
+
+    const aName = (a?.displayName ?? "").toLowerCase();
+    const bName = (b?.displayName ?? "").toLowerCase();
+
+    const indexA = sortSpecLines.indexOf(aName);
+    const indexB = sortSpecLines.indexOf(bName);
+
+    console && console.debug && console.debug("Explorer.sortFn indices", { indexA, indexB, aName, bName });
+
+    if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+    if (indexA !== -1) return -1;
+    if (indexB !== -1) return 1;
+
+    // fallback: folders first, then alphabetical
+    if ((a.isFolder && b.isFolder) || (!a.isFolder && !b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      });
+    }
+    return a.isFolder ? -1 : 1;
+  } catch (err) {
+    console && console.error && console.error("Explorer.sortFn error:", err);
+    if ((a.isFolder && b.isFolder) || (!a.isFolder && !b.isFolder)) {
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      });
+    }
+    return a.isFolder ? -1 : 1;
+  }
+`
+) as (a: FileTrieNode, b: FileTrieNode) => number;
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
-  mapFn: (node) => {
-    return node
-  },
-  sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
-    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
-    }
-
-    if (!a.isFolder && b.isFolder) {
-      return 1
-    } else {
-      return -1
-    }
-  },
+  // pure map & filter so Quartz doesn't drop nodes
+  mapFn: (node) => node,
   filterFn: (node) => node.slugSegment !== "tags",
+  // use the comparator we built above
+  sortFn: comparator,
   order: ["filter", "map", "sort"],
 }
 
@@ -94,6 +139,7 @@ export default ((userOpts?: Partial<Options>) => {
             <line x1="4" x2="20" y1="18" y2="18" />
           </svg>
         </button>
+
         <button
           type="button"
           class="title-button explorer-toggle desktop-explorer"
@@ -116,14 +162,17 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
+
         <div class="explorer-content" aria-expanded={false}>
           <OverflowList class="explorer-ul" />
         </div>
+
         <template id="template-file">
           <li>
             <a href="#"></a>
           </li>
         </template>
+
         <template id="template-folder">
           <li>
             <div class="folder-container">

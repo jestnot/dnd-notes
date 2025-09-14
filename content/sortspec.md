@@ -14,7 +14,7 @@ sorting-spec: |-
   Party
   target-folder: content/History
   Timeline
-  Age
+  Ages
   target-folder: content/Player Introduction
   Campaign Overview
   PC Creation
