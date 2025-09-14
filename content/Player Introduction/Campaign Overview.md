@@ -1,7 +1,8 @@
 ---
-title: "Campaign Overview"
+title: Campaign Overview
 draft: false
 tags:
+page: "10"
 ---
 This will be a long-form campaign set on the continent of Kyrka, a land once united as the Kingdom of Ekedalia. After a gargantuan creature erupted from the earth and destroyed the capital, Kyrkans banded together to defeat it and split into three nations. With the dissolution of the monarchy, two nations disagree over whether the arcane arts should be taught to all or replaced with a new area of study: the sciences. While the third nation has remained neutral, rumors of extremist groups have spread in taverns across the continent -- especially after the end of the recent [[Nackanas-Pinntorp War]].
 # Intro to Kyrka

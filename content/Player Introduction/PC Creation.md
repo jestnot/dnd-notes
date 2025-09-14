@@ -2,6 +2,7 @@
 title: PC Creation
 draft: false
 tags:
+page: "20"
 ---
 **Before** you begin creating your character, read the [[Campaign Overview]]!
 

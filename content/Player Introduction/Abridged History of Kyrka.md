@@ -2,6 +2,7 @@
 title: Abridged History of Kyrka
 draft: false
 tags:
+page: "30"
 ---
 # Long Ago
 Eons ago, [[The Three Sisters]] created the world, including the continent of Kyrka and its inhabitants. As the almighty gods, they ushered their creations through the ages, sometimes speaking directly to the pious and providing cryptic guidance. While there are many legends of their feats, none can be confirmed today, as they have gone silent after their last prophesized test for all mortals to prove their worth.
