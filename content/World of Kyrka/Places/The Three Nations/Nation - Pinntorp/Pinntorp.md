@@ -7,8 +7,8 @@ Citizens are referred to as "Pinntorpers" or "Pinns."
 
 # Government
 - Each citizen is granted a number of votes based a complicated calculation of their contribution to society, with a heavy focus on their contribution to their academic contribution to the arcane arts
-- [[The Regulation]] is in charge of recalculating each citizen's votes annually
-- [[The Board]] is the presiding group of high-ranking scholars who make governing decisions
+- [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Regulation]] is in charge of recalculating each citizen's votes annually
+- [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Board]] is the presiding group of high-ranking scholars who make governing decisions
 	- The Board consists of the most prominent scholar in each of the 8 schools of magic, as well as a 9th member who is considered the most well-rounded scholar across all schools of magic
 ## Voting System
 - Each citizen's votes are based on how many degrees they have and how many references their publications receive

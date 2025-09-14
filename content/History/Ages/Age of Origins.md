@@ -3,6 +3,5 @@ title: Age of Origins
 draft: false
 tags:
 ---
-
 - [[The Three Sisters]] created Kyrka and the first mortal creatures to populate it
 - This was a time of chaos, until mortals settled into a natural hierarchy of power

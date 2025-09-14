@@ -9,4 +9,4 @@ tags:
 		- "Natural order?"
 	- Long-lifers and short-lifers living in harmony
 
-- Originally foretold by [[Diviner Board Member]]
+- Originally foretold by [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Diviner Board Member]]

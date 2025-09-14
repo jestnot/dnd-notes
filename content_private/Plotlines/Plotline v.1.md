@@ -68,8 +68,8 @@ tags:
 	- **Each PC needs a reason for being in the city, and going to the gala**
 - In a few days, [[The Museum Gala Event]] will be held here as the 3 comets pass overhead
 	- Every 7 years, there is a charity fundraiser to help support [[The Museum]]
-	- Travelers (especially the rich who have money to spare and reputations to uphold) travel from across Kyrka (even from [[Nackanas]] and [[Vangsta]]) for this event
-		- In keeping with [[Pinntorp]]'s philosophy about knowledge, [[The Museum]]'s wealth of knowledge is for all Kyrkans -- not just for Pinntorpers
+	- Travelers (especially the rich who have money to spare and reputations to uphold) travel from across Kyrka (even from [[content/World of Kyrka/Places/The Three Nations/Nation - Nackanas/Nackanas]] and [[content/World of Kyrka/Places/The Three Nations/Nation - Vangsta/Vangsta]]) for this event
+		- In keeping with [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinntorp]]'s philosophy about knowledge, [[The Museum]]'s wealth of knowledge is for all Kyrkans -- not just for Pinntorpers
 	- [[Museum Curator]] is responsible for planning the event, but is not a major public-facing figure
 		- They have set up extra precautions around [[The Siphon Map]], which is removed from its normal display case and kept in an underground vault (with traps and guards)
 			- *finally a time to use Symbol?*
@@ -101,10 +101,10 @@ tags:
 		- The infiltrators will try to take [[Common Rosetta Stone]] with them
 ## Arc 1.2: Learn 
 ### Goals
-- Incorporate one of the PCs (not [[Athtoc Xarcrath]])'s backstories with some reason to visit [[Ypperlig]]
+- Incorporate one of the PCs (not [[Athtoc Xarcrath]])'s backstories with some reason to visit [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Places/Ypperlig]]
 - Experience the post-[[Nackanas-Pinntorp War]] turmoil from the Pinntorper perspective
-	- Understand why Pinntorpers would be persuaded to follow [[Olov Drageri]] and the "traditionalist" party on [[The Board]]
-	- Understand why Pinntorpers would agree to [[Olov Drageri]]'s proposal to acquire more Nackanian land
+	- Understand why Pinntorpers would be persuaded to follow [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Olov Drageri]] and the "traditionalist" party on [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Board]]
+	- Understand why Pinntorpers would agree to [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Olov Drageri]]'s proposal to acquire more Nackanian land
 - [[The Long Sight]] and [[The Golden Scales]] are keeping an eye on the PCs
 	- [[The Long Sight]] approaches the PCs and offers to help remove [[Athtoc's Dreq]]
 - Find the location of [[Key Trial 2]]
@@ -125,13 +125,13 @@ tags:
 	- Learn that [[The Golden Scales]] suspects they can use [[Domedag's Abyss]] to destroy [[The Siphon]]
 	- Visit [[Domedag's Abyss City]] and learn about the history of [[Domedag]] and [[Domedag's Abyss]]
 - Learn more about [[The Long Sight]]' goals
-	- Learn that [[The Long Sight]]' leader plans to reanimate [[Domedag]] and reconquer Kyrka in the name of [[The Ekedalia Family]] -- because the leader is actually [[Last Ekedalian King]]!
+	- Learn that [[The Long Sight]]' leader plans to reanimate [[Domedag]] and reconquer Kyrka in the name of [[content/World of Kyrka/Places/Ekedalen (no longer existant)/Ekedalian Government/The Ekedalia Family]] -- because the leader is actually [[content/World of Kyrka/Places/Ekedalen (no longer existant)/Ekedalian Government/Last Ekedalian King]]!
 
 **Optional Goals**
-- Find a replacement for [[The Long Sight]]' leader on [[The Board]]
-	- Maybe ally with [[Diviner Board Member]] and attempt to reform Pinntorp's system?
+- Find a replacement for [[The Long Sight]]' leader on [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Board]]
+	- Maybe ally with [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Diviner Board Member]] and attempt to reform Pinntorp's system?
 - Work against [[The Equalists]]' message of extreme bigotry against magic
-	- Help bridge [[Nackanas]] and [[Pinntorp]] by supporting [[The Artificers Guild]]
+	- Help bridge [[content/World of Kyrka/Places/The Three Nations/Nation - Nackanas/Nackanas]] and [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinntorp]] by supporting [[The Artificers Guild]]
 ## Arc 2.1
 ### Goals
 - 

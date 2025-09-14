@@ -3,9 +3,9 @@ title: "Extremist Church Branch (working title)"
 draft: false
 tags:
 ---
-This branch of the church split off due to their strong belief that [[The Three Sisters]]' most recent test for mortals has still not yet been passed. Most of the Church believes that it *was* passed successfully when [[Nackan Qvist]] rallied humanoids to kill [[Domedag]]; they do not support this branch's beliefs. To this last point, they are especially unwelcome in [[Nackanas]].
+This branch of the church split off due to their strong belief that [[The Three Sisters]]' most recent test for mortals has still not yet been passed. Most of the Church believes that it *was* passed successfully when [[Nackan Qvist]] rallied humanoids to kill [[Domedag]]; they do not support this branch's beliefs. To this last point, they are especially unwelcome in [[content/World of Kyrka/Places/The Three Nations/Nation - Nackanas/Nackanas]].
 
-Most followers currently reside in [[Extremist Church Branch Village]].
+Most followers currently reside in [[content/World of Kyrka/Places/The Three Nations/Nation - Vangsta/Vangstan Places/Extremist Church Branch Village]].
 # Beliefs
 They believe that the most recent test was not for mortals to destroy [[Domedag]], but to fundamentally prove humanoids worthy of being the prevailing ruling mortal class in Kyrka.
 

@@ -5,4 +5,4 @@ tags: landmark, location
 ---
 These are the mountains along the southern coast of Kyrka.
 
-[[Ivar]] is situated deep in these mountains.
+[[content/World of Kyrka/Places/The Three Nations/Nation - Vangsta/Vangstan Places/Ivar]] is situated deep in these mountains.

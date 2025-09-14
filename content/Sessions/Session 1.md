@@ -3,6 +3,7 @@ title: "Session 1"
 draft: true
 tags:
 ---
+Date: 
 ## Current Threads
 - XYZ
 

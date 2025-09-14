@@ -1,5 +1,5 @@
 ---
-title: Athtoc Xarcrath (the "Ath-hole")
+title: Athtoc (the "Ath-hole") Xarcrath
 draft: true
 tags:
   - pc

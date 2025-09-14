@@ -18,4 +18,4 @@ tags:
 
 ## What the party DOESN'T know
 - Cult member
-- Knows [[Olov Drageri]]'s true identity is [[Makkalos Ekedalia]]
+- Knows [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/Board Members/Olov Drageri]]'s true identity is [[Makkalos Ekedalia]]
