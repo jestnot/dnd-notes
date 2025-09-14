@@ -12,6 +12,8 @@ sorting-spec: |-
 
   target-folder: content
   Party
+  Player Introduction
+  History
   target-folder: content/History
   Timeline
   Ages
