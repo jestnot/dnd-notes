@@ -9,31 +9,6 @@ import { FileTrieNode } from "../util/fileTrie"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
 
-// gao: plugin for reading sortspec
-import * as fs from "fs";
-import * as path from "path";
-
-let sortSpecLinesCache: string[] | null = null;
-
-export function readSortSpecLines(): string[] {
-  if (sortSpecLinesCache !== null) return sortSpecLinesCache;
-
-  const repoRoot = process.cwd();
-  const sortSpecPath = path.resolve(repoRoot, "content", "sortspec.md"); // or .txt etc.
-
-  // read synchronously
-  const fileContents = fs.readFileSync(sortSpecPath, "utf-8");
-
-  // split into lines, trim, and filter out empty lines
-  sortSpecLinesCache = fileContents
-    .split(/\r?\n/)         // handle both LF and CRLF
-    .map(line => line.trim())
-    .filter(line => line.length > 0);
-
-  return sortSpecLinesCache;
-}
-//
-
 type OrderEntries = "sort" | "filter" | "map"
 
 export interface Options {
@@ -55,30 +30,6 @@ const defaultOptions: Options = {
     return node
   },
   sortFn: (a, b) => {
-    // gao: plugin for reading sortspec
-    const order = readSortSpecLines(); // cached array of names from sortspec
-
-    // get indices in the order array
-    const indexA = order.indexOf(a.displayName);
-    const indexB = order.indexOf(b.displayName);
-  
-    // Case 1: both are in order file
-    if (indexA !== -1 && indexB !== -1) {
-      // earlier index sorts first
-      return indexA < indexB ? -1 : 1;
-    }
-  
-    // Case 2: only a is in order
-    if (indexA !== -1 && indexB === -1) {
-      return -1; // a should come before b
-    }
-  
-    // Case 3: only b is in order
-    if (indexA === -1 && indexB !== -1) {
-      return 1; // b should come before a
-    }
-    //
-    
     // Sort order: folders first, then files. Sort folders and files alphabeticall
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
