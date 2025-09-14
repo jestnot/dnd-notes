@@ -41,9 +41,9 @@ const defaultOptions: Options = {
     }
 
     if (!a.isFolder && b.isFolder) {
-      return 1
-    } else {
       return -1
+    } else {
+      return 1
     }
   },
   filterFn: (node) => node.slugSegment !== "tags",
