@@ -4,7 +4,6 @@ draft: false
 tags: nation
 ---
 Citizens are referred to as "Pinntorpers" or "Pinns."
-
 # Government
 - Each citizen is granted a number of votes based a complicated calculation of their contribution to society, with a heavy focus on their contribution to their academic contribution to the arcane arts
 - [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Regulation]] is in charge of recalculating each citizen's votes annually
