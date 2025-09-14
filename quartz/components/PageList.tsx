@@ -11,7 +11,7 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
     // Sort by date/alphabetical
     if (f1.dates && f2.dates) {
       // sort descending
-      return getDate(cfg, f1)!.getTime() - getDate(cfg, f2)!.getTime()
+      return getDate(cfg, f2)!.getTime() - getDate(cfg, f1)!.getTime()
     } else if (f1.dates && !f2.dates) {
       // prioritize files with dates
       return -1
@@ -22,7 +22,7 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
     // otherwise, sort lexographically by title
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
     const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
-    return f1Title.localeCompare(f2Title)
+    return f2Title.localeCompare(f1Title)
   }
 }
 
@@ -48,7 +48,7 @@ export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): Sort
     // otherwise, sort lexographically by title
     const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
     const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
-    return f1Title.localeCompare(f2Title)
+    return f2Title.localeCompare(f1Title)
   }
 }
 
