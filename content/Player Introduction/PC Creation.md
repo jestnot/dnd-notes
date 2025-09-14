@@ -65,7 +65,7 @@ If you want to write a backstory in prose, just make sure you clearly address th
 4. What does your believe about the Three Sisters (the gods)?
 	1. Specifically, what do you believe about their prophecy with Domedag?
 	2. Why do you think they are silent? (Or... are they not to you?)
-5. What do you know about the legend of [[The Siphon]]?
+5. What do you know about the legend of [[content/World of Kyrka/Objects and Documents/The Siphon/The Siphon]]?
 	- Are you well-informed of it and actively seeking it out? (e.g. to destroy an enemy’s power, to remove a powerful curse, to gain your own power, to sell for money or to repay a debt)
 	- Or do you just know as much about it as the average Kyrkan?
 6. What does your PC look like? (race, height, weight, physicality, outfit at the start of the campaign, fashion sense, and any other defining physical characteristics you want to share)
