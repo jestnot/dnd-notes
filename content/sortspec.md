@@ -1,28 +1,5 @@
 ---
-sorting-spec: "target-folder: .
-
-  index\r
-
-  sortspec
-
-  Player Introduction
-
-  Party
-
-  Sessions
-
-  Timeline
-
-  World of Kyrka
-
-
-  target-folder: Player Introduction
-
-  Campaign Overview
-
-  PC Creation"
----
----
+sorting-spec: |
  //
  // A simple configuration for obsidian-custom-sort plugin
  // (https://github.com/SebastianMC/obsidian-custom-sort)
@@ -33,20 +10,8 @@ sorting-spec: "target-folder: .
  // 
  // To play with more examples go to https://github.com/SebastianMC/obsidian-custom-sort#readme
 
-sorting-spec: |
-	target-folder: /
-	Player Introduction
-	Party
-	Sessions
-	World of Kyrka
-	History
-	
-	target-folder: Player Introduction
-	Campaign Overview
-	PC Creation
-	Abridged History of Kyrka
-	Detailed History of Kyrka
-	
-	target-folder: Party
-	Plot Web
+ target-folder: content
+ Party
+ target-folder: content/Player Introduction
+ PC Creation
 ---
