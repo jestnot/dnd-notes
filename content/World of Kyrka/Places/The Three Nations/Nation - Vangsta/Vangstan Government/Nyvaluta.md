@@ -4,4 +4,6 @@ draft: false
 tags:
   - organization
 ---
-Nyvaluta ("NAI-vah-LOO-tah," meaning "New Money" in dwarvish) is a group who publicly disagrees with Gamvaluta's policies.
+Pronounced "NAI-vah-LOO-tah."
+
+Nyvaluta (meaning "New Money" in dwarvish) is a group who publicly disagrees with Gamvaluta's policies.

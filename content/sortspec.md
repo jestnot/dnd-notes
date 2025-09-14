@@ -25,6 +25,11 @@ sorting-spec: |-
   PC Creation
   Abridged History of Kyrka
   Detailed History of Kyrka
+  target-folder: content/World of Kyrka/Places
+  The Three Nations
+  Landmarks
+  Neutral Territories
+  Ekedalen (no longer existent)
   target-folder: content/History of Kyrka
   Timeline
   Ages

@@ -125,7 +125,7 @@ tags:
 	- Learn that [[The Golden Scales]] suspects they can use [[Domedag's Abyss]] to destroy [[content/World of Kyrka/Objects and Documents/The Siphon/The Siphon]]
 	- Visit [[Domedag's Abyss City]] and learn about the history of [[Domedag]] and [[Domedag's Abyss]]
 - Learn more about [[The Long Sight]]' goals
-	- Learn that [[The Long Sight]]' leader plans to reanimate [[Domedag]] and reconquer Kyrka in the name of [[content/World of Kyrka/Places/Ekedalen (no longer existant)/Ekedalian Government/The Ekedalia Family]] -- because the leader is actually [[content/World of Kyrka/Places/Ekedalen (no longer existant)/Ekedalian Government/Last Ekedalian King]]!
+	- Learn that [[The Long Sight]]' leader plans to reanimate [[Domedag]] and reconquer Kyrka in the name of [[content/World of Kyrka/Places/Ekedalen (no longer existent)/Ekedalian Government/The Ekedalia Family]] -- because the leader is actually [[content/World of Kyrka/Places/Ekedalen (no longer existent)/Ekedalian Government/Last Ekedalian King]]!
 
 **Optional Goals**
 - Find a replacement for [[The Long Sight]]' leader on [[content/World of Kyrka/Places/The Three Nations/Nation - Pinntorp/Pinn Government/The Board]]

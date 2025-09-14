@@ -20,5 +20,5 @@ The government consisted of a feudal system.
 - **Serfs:** The remainder (and majority) of the population
 
 # Known For
-- [[The Church]]'s strong connection and support of [[content/World of Kyrka/Places/Ekedalen (no longer existant)/Ekedalian Government/The Ekedalia Family]].
+- [[The Church]]'s strong connection and support of [[content/World of Kyrka/Places/Ekedalen (no longer existent)/Ekedalian Government/The Ekedalia Family]].
 - A strong emphasis on prioritizing long-lifespan races over others—the arcane arts were exclusively taught to the royal family and nobles
