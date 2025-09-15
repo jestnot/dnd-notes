@@ -4,7 +4,7 @@ draft: false
 tags:
 ---
 # Age of Stability/Stagnancy (the previous age)
-For the past 600 years, the continent of Kyrka (pronounced “KEER-kah”) was governed by the royal Ekedalia family of elves in the the [[Age of Stagnancy (or Stability)]] (then referred to as the "Age of Stability"). Residing in [[content/World of Kyrka/Places/Ekedalen (no longer existent)/Ekedalian Places/Dalia]], the holy city of Ekedalen, the royal family held a firm grip over the main source of freshwater on the continent and employed a feudal system to manage their land and people:
+For the past 600 years, the continent of Kyrka (pronounced “KEER-kah”) was governed by the royal Ekedalia family of elves in the the [[Age of Stagnancy (or Stability)]] (then referred to as the "Age of Stability"). Residing in [[Dalia]], the holy city of Ekedalen, the royal family held a firm grip over the main source of freshwater on the continent and employed a feudal system to manage their land and people:
 
 - Monarch: The head of [[content/World of Kyrka/Places/Ekedalen (no longer existent)/Ekedalian Government/The Ekedalia Family]] and ruler of the Ekedalian kingdom
 - Nobles: The monarch chose the head of each noble family, and these were only comprised of the longest-lifespan races (specifically, elves, gnomes, and dwarves)

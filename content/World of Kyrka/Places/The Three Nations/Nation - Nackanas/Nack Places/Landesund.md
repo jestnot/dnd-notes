@@ -1,7 +1,10 @@
 ---
-title: "City - Landesund"
+title: City - Landesund
 draft: false
-tags: city, location
+tags:
+  - city
+  - location
 ---
+Pronounced "LAHN-deh-soond."
 
-The capital city of [[content/World of Kyrka/Places/The Three Nations/Nation - Nackanas/Nackanas]].
+The capital city of [[Nackanas]].

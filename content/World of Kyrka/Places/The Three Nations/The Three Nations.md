@@ -2,7 +2,7 @@
 title: The Three Nations
 draft: false
 tags:
-  -
+  - location
 ---
 > As the phoenix rises from ash, humankind ushered in the Age of Progress with the creation of three new nations. No longer would Kyrka be ruled by the might of one -- this would forevermore be a land of the people.
 *Dawn of the New World* (Eivind Fosberg, 101 AP)

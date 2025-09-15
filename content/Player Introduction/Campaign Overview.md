@@ -6,6 +6,8 @@ tags:
 This will be a long-form campaign set in the homebrewed world of [[Storvald]], on the continent of [[Kyrka]]: a land once united as the Kingdom of [[Ekedalen]]. After a gargantuan creature erupted from the earth and destroyed the capital, Kyrkans banded together to defeat it, and then split into [[The Three Nations]].
 
 With the dissolution of the monarchy, two nations disagree over whether the arcane arts should be taught to all or replaced with a new area of study: the sciences. While the third nation has remained neutral, rumors of extremist groups are whispered taverns across the continent -- especially after the end of the recent [[Nackanas-Pinntorp War]].
+
+The year is **197 AP**, and
 # Intro to Kyrka
 [[Kyrka]] ("KEER-kah") is currently marked by the borders of four notable areas: the Three Nations ([[Nackanas]], [[Pinntorp]], and [[Vangsta]]) and [[Domedag's Abyss]].
 
@@ -31,7 +33,7 @@ These are the current nations on the continent of Kyrka.
 ### Note for Players
 While most Kyrkans have heard at least one legend that referenced the Siphon (as most people would have heard of the Holy Grail, Excalibur, or the Ark of the Covenant in the western part of our world), there haven't been any new public discoveries and it isn't a common topic of conversation with most Kyrkans.
 
-*Wait, why is this being mentioned in the campaign intro?* You should keep this in mind as you create your PC 🙂 (see the Character Backstory Questions in [[PC Creation]])
+*Wait, why is this being mentioned in the campaign intro?* You should keep this in mind as you create your PC 🙂 (see the Character Backstory Questions in [[PC Creation]].)
 # Campaign Tone
 - **Heroic** - This campaign is intended to frame the party as heroes! Unlike Jessie's Eberron campaign, the major factions the party will interact with are intended to have a more black-and-white stance on morality.
 - **Noblebright Fantasy** -"Noblebright fantasy is not utopian fiction. The world of a noblebright story is not perfect, and indeed can sometimes be quite dark. Actions have consequences, and even good characters can make terrible mistakes. But a noblebright story is generally hopeful in tone, even if there are plenty of bad, grim, dark things going on in the world.” (CJ Brightley)

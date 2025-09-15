@@ -1,6 +1,8 @@
 ---
-title: "Extremist Church Branch Village"
+title: Extremist Church Branch Village
 draft: false
-tags: city, location
+tags:
+  - city
+  - location
 ---
-All members of this village in [[content/World of Kyrka/Places/The Three Nations/Nation - Vangsta/Vangsta]] belong to [[Extremist Church Branch]], a branch of [[The Church]]. They settled here after several years of searching; so long as they continue to profit from their farmlands and pay taxes, the Vangstan government allows them to practice their beliefs freely.
+All members of this village in [[Vangsta]] belong to [[Extremist Church Branch]], a branch of [[The Church]]. They settled here after several years of searching; so long as they continue to profit from their farmlands and pay taxes, [[Gamvaluta]] allows them to practice their beliefs freely.

@@ -1,6 +1,10 @@
 ---
-title: "City - Ivar"
+title: City - Ivar
 draft: false
-tags: city, location
+tags:
+  - city
+  - location
 ---
-The capital city of [[content/World of Kyrka/Places/The Three Nations/Nation - Vangsta/Vangsta]].
+Pronounced "ih-VAR."
+
+The capital city of [[Vangsta]].
